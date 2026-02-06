@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository presents a **real-time Intrusion Detection System (IDS)** built using machine learning models on the **CIC-IDS2017 dataset**, developed by the **Canadian Institute for Cybersecurity (CIC)**.
+This repository presents a **real-time Intrusion Detection System (IDS)** built using machine learning models on the **CIC-IDS2017 dataset**,  The dataset used in this project is **[CIC-IDS2017]([https://www.unb.ca/cic/datasets/ids-2017.html](https://www.unb.ca/cic/datasets/ids-2017.html))** developed by the **Canadian Institute for Cybersecurity (CIC)**.
 
 The project demonstrates:
 
@@ -42,9 +42,7 @@ Implemented models:
 
 ### Performance Evaluation
 - Metrics: Accuracy, Precision, Recall, F1-score, Confusion Matrix
-- Discussion on the impact of class imbalance
 
----
 
 ## Best Model Deployment
 
